@@ -1,0 +1,1 @@
+# makyaj-magzasi-yonetim-ve-alisveris-sistemi
